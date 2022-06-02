@@ -1,2 +1,2 @@
-# Pet_Saloon
-In this project we create a pet saloon using object literal, object constructor and manipulating the DOM
+# Pet_Salon
+A pet salon made with Bootstrap and Javascript, This version is for the competency report
