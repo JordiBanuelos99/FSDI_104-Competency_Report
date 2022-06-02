@@ -1,2 +1,2 @@
-# FSDI_104-Competency_Report 
- The pet salon project, built with javascript, html, css and bootstrap
+# Pet_Saloon
+In this project we create a pet saloon using object literal, object constructor and manipulating the DOM
